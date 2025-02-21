@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-sitemap: https://bokeprumahabg.pages.dev/sitemap.xml
